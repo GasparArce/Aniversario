@@ -1,0 +1,1 @@
+const words = ['michi','chiquita', 'pepe','tonto','salame','pendejo','weeee','amuuuu','hermosa','fotooo','no-me-parece','a','zapallita','jijiji','bebe','reina','dos-años','galletita','brownie','goda'];
